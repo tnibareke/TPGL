@@ -68,8 +68,8 @@ public class Orange {
 	Orange o=new Orange(-5,"France");
 	
 	System.out.println(o.getPrix());
-	//o.setPrix(-4);
-	//System.out.println(o.getPrix());
+	o.setPrix(4);
+	ystem.out.println(o.getPrix());
 	
 	
    }
